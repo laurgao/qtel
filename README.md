@@ -1,5 +1,8 @@
 # Quantum Teleportation  
 
+The quantum teleportation circuit:
+![The quantum teleportation circuit](circuit.png)
+
 
 ### Resources I used
 Learning the protocol/how it works intuition/math: https://quantum.country/teleportation  
