@@ -1,6 +1,6 @@
 # Quantum Teleportation  
 
-The quantum teleportation circuit:
+The quantum teleportation circuit:   
 ![The quantum teleportation circuit](circuit.png)
 
 
